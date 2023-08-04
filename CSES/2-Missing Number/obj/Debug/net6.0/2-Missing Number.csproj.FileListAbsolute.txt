@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\ProblemSolving\2-Missing Number\bin\Debug\net6.0\2-Missing Number.exe
+c:\Users\hp\Desktop\ProblemSolving\2-Missing Number\bin\Debug\net6.0\2-Missing Number.deps.json
+c:\Users\hp\Desktop\ProblemSolving\2-Missing Number\bin\Debug\net6.0\2-Missing Number.runtimeconfig.json
+C:\Users\hp\Desktop\ProblemSolving\2-Missing Number\bin\Debug\net6.0\2-Missing Number.dll
+C:\Users\hp\Desktop\ProblemSolving\2-Missing Number\bin\Debug\net6.0\2-Missing Number.pdb
+C:\Users\hp\Desktop\ProblemSolving\2-Missing Number\obj\Debug\net6.0\2-Missing Number.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ProblemSolving\2-Missing Number\obj\Debug\net6.0\2-Missing Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\ProblemSolving\2-Missing Number\obj\Debug\net6.0\2-Missing Number.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\ProblemSolving\2-Missing Number\obj\Debug\net6.0\2-Missing Number.AssemblyInfo.cs
+C:\Users\hp\Desktop\ProblemSolving\2-Missing Number\obj\Debug\net6.0\2-Missing Number.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ProblemSolving\2-Missing Number\obj\Debug\net6.0\2-Missing Number.dll
+C:\Users\hp\Desktop\ProblemSolving\2-Missing Number\obj\Debug\net6.0\refint\2-Missing Number.dll
+C:\Users\hp\Desktop\ProblemSolving\2-Missing Number\obj\Debug\net6.0\2-Missing Number.pdb
+c:\Users\hp\Desktop\ProblemSolving\2-Missing Number\obj\Debug\net6.0\2-Missing Number.genruntimeconfig.cache
+c:\Users\hp\Desktop\ProblemSolving\2-Missing Number\obj\Debug\net6.0\ref\2-Missing Number.dll
