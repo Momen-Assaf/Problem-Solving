@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\hp\\Desktop\\ProblemSolving\\CSES\\2-Missing Number\\2-Missing Number.csproj": {}
+    "c:\\Users\\hp\\Desktop\\ProblemSolving\\CSES\\3-Repititions\\Repititions.csproj": {}
   },
   "projects": {
-    "c:\\Users\\hp\\Desktop\\ProblemSolving\\CSES\\2-Missing Number\\2-Missing Number.csproj": {
+    "c:\\Users\\hp\\Desktop\\ProblemSolving\\CSES\\3-Repititions\\Repititions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\hp\\Desktop\\ProblemSolving\\CSES\\2-Missing Number\\2-Missing Number.csproj",
-        "projectName": "2-Missing Number",
-        "projectPath": "c:\\Users\\hp\\Desktop\\ProblemSolving\\CSES\\2-Missing Number\\2-Missing Number.csproj",
+        "projectUniqueName": "c:\\Users\\hp\\Desktop\\ProblemSolving\\CSES\\3-Repititions\\Repititions.csproj",
+        "projectName": "Repititions",
+        "projectPath": "c:\\Users\\hp\\Desktop\\ProblemSolving\\CSES\\3-Repititions\\Repititions.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\hp\\Desktop\\ProblemSolving\\CSES\\2-Missing Number\\obj\\",
+        "outputPath": "c:\\Users\\hp\\Desktop\\ProblemSolving\\CSES\\3-Repititions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

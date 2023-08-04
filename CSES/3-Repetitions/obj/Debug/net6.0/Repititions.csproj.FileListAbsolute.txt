@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\ProblemSolving\CSES\3-Repititions\bin\Debug\net6.0\Repititions.exe
+c:\Users\hp\Desktop\ProblemSolving\CSES\3-Repititions\bin\Debug\net6.0\Repititions.deps.json
+c:\Users\hp\Desktop\ProblemSolving\CSES\3-Repititions\bin\Debug\net6.0\Repititions.runtimeconfig.json
+C:\Users\hp\Desktop\ProblemSolving\CSES\3-Repititions\bin\Debug\net6.0\Repititions.dll
+C:\Users\hp\Desktop\ProblemSolving\CSES\3-Repititions\bin\Debug\net6.0\Repititions.pdb
+C:\Users\hp\Desktop\ProblemSolving\CSES\3-Repititions\obj\Debug\net6.0\Repititions.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ProblemSolving\CSES\3-Repititions\obj\Debug\net6.0\Repititions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\ProblemSolving\CSES\3-Repititions\obj\Debug\net6.0\Repititions.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\ProblemSolving\CSES\3-Repititions\obj\Debug\net6.0\Repititions.AssemblyInfo.cs
+C:\Users\hp\Desktop\ProblemSolving\CSES\3-Repititions\obj\Debug\net6.0\Repititions.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ProblemSolving\CSES\3-Repititions\obj\Debug\net6.0\Repititions.dll
+C:\Users\hp\Desktop\ProblemSolving\CSES\3-Repititions\obj\Debug\net6.0\refint\Repititions.dll
+C:\Users\hp\Desktop\ProblemSolving\CSES\3-Repititions\obj\Debug\net6.0\Repititions.pdb
+c:\Users\hp\Desktop\ProblemSolving\CSES\3-Repititions\obj\Debug\net6.0\Repititions.genruntimeconfig.cache
+c:\Users\hp\Desktop\ProblemSolving\CSES\3-Repititions\obj\Debug\net6.0\ref\Repititions.dll

@@ -1,4 +1,4 @@
-﻿namespace missingNumber
+﻿﻿namespace missingNumber
 {
     class Solution
     {
