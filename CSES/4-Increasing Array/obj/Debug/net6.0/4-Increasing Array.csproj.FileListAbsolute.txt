@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\ProblemSolving\CSES\4-Increasing Array\bin\Debug\net6.0\4-Increasing Array.exe
+c:\Users\hp\Desktop\ProblemSolving\CSES\4-Increasing Array\bin\Debug\net6.0\4-Increasing Array.deps.json
+c:\Users\hp\Desktop\ProblemSolving\CSES\4-Increasing Array\bin\Debug\net6.0\4-Increasing Array.runtimeconfig.json
+C:\Users\hp\Desktop\ProblemSolving\CSES\4-Increasing Array\bin\Debug\net6.0\4-Increasing Array.dll
+C:\Users\hp\Desktop\ProblemSolving\CSES\4-Increasing Array\bin\Debug\net6.0\4-Increasing Array.pdb
+C:\Users\hp\Desktop\ProblemSolving\CSES\4-Increasing Array\obj\Debug\net6.0\4-Increasing Array.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ProblemSolving\CSES\4-Increasing Array\obj\Debug\net6.0\4-Increasing Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\ProblemSolving\CSES\4-Increasing Array\obj\Debug\net6.0\4-Increasing Array.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\ProblemSolving\CSES\4-Increasing Array\obj\Debug\net6.0\4-Increasing Array.AssemblyInfo.cs
+C:\Users\hp\Desktop\ProblemSolving\CSES\4-Increasing Array\obj\Debug\net6.0\4-Increasing Array.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ProblemSolving\CSES\4-Increasing Array\obj\Debug\net6.0\4-Increasing Array.dll
+C:\Users\hp\Desktop\ProblemSolving\CSES\4-Increasing Array\obj\Debug\net6.0\refint\4-Increasing Array.dll
+C:\Users\hp\Desktop\ProblemSolving\CSES\4-Increasing Array\obj\Debug\net6.0\4-Increasing Array.pdb
+c:\Users\hp\Desktop\ProblemSolving\CSES\4-Increasing Array\obj\Debug\net6.0\4-Increasing Array.genruntimeconfig.cache
+c:\Users\hp\Desktop\ProblemSolving\CSES\4-Increasing Array\obj\Debug\net6.0\ref\4-Increasing Array.dll
