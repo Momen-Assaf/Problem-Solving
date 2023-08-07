@@ -1,0 +1,24 @@
+# ninja log v5
+3	413	7131509785544517	CMakeFiles/5_Permutations.dir/main.cpp.obj	78ff17cf3087add2
+3	215	7130484158301260	build.ninja	c2268375342a9908
+413	541	7131509786739636	5_Permutations.exe	6ef25ff996173127
+8	611	7131509919832338	CMakeFiles/5_Permutations.dir/main.cpp.obj	78ff17cf3087add2
+613	819	7131509921882385	5_Permutations.exe	6ef25ff996173127
+13	787	7131510675016110	CMakeFiles/5_Permutations.dir/main.cpp.obj	78ff17cf3087add2
+788	1010	7131510677150915	5_Permutations.exe	6ef25ff996173127
+7	598	7131512130515481	CMakeFiles/5_Permutations.dir/main.cpp.obj	78ff17cf3087add2
+599	781	7131512132292024	5_Permutations.exe	6ef25ff996173127
+5	512	7131512428647907	CMakeFiles/5_Permutations.dir/main.cpp.obj	78ff17cf3087add2
+513	676	7131512430205421	5_Permutations.exe	6ef25ff996173127
+6	575	7131512642348189	CMakeFiles/5_Permutations.dir/main.cpp.obj	78ff17cf3087add2
+575	765	7131512644176135	5_Permutations.exe	6ef25ff996173127
+3	407	7131512818842570	CMakeFiles/5_Permutations.dir/main.cpp.obj	78ff17cf3087add2
+407	623	7131512820912541	5_Permutations.exe	6ef25ff996173127
+15	608	7131513421991674	CMakeFiles/5_Permutations.dir/main.cpp.obj	78ff17cf3087add2
+609	794	7131513423796951	5_Permutations.exe	6ef25ff996173127
+6	532	7131515712873191	CMakeFiles/5_Permutations.dir/main.cpp.obj	78ff17cf3087add2
+533	720	7131515714680605	5_Permutations.exe	6ef25ff996173127
+8	604	7131516249569120	CMakeFiles/5_Permutations.dir/main.cpp.obj	78ff17cf3087add2
+605	783	7131516251315589	5_Permutations.exe	6ef25ff996173127
+6	598	7131517190474263	CMakeFiles/5_Permutations.dir/main.cpp.obj	78ff17cf3087add2
+599	794	7131517192374012	5_Permutations.exe	6ef25ff996173127
