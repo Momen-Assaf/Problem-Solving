@@ -1,0 +1,3 @@
+C:/Users/hp/Desktop/ProblemSolving/CSES/6-Number Spiral/cmake-build-debug/CMakeFiles/6_Number_Spiral.dir
+C:/Users/hp/Desktop/ProblemSolving/CSES/6-Number Spiral/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hp/Desktop/ProblemSolving/CSES/6-Number Spiral/cmake-build-debug/CMakeFiles/rebuild_cache.dir
