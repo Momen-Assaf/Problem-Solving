@@ -9,15 +9,19 @@
 
 using namespace std;
 
-int n;
+ll n;
 
 void sol(){
-
+    cin >> n;
+    ll f[n+1];
+    f[1] = 1;
+    for(ll i = 2; i <=n; i++){
+        if (i <= 6)f[i] = 2 * f[i-1];
+        else f[i] = 2 * f[i-1] - ;
+    }
+    cout << f[n] << endl;
 }
 int main(){
-
-    cin >> n;
+    fast;
     sol();
-
-
 }

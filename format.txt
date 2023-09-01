@@ -8,3 +8,8 @@
 #define read_file freopen("input.txt", "r", stdin); freopen("output.txt", "w", stdout);
 
 using namespace std;
+
+int main(){
+	cout << "Hello World" << endl;
+	return 0;
+}

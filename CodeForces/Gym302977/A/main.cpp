@@ -10,20 +10,21 @@
 
 using namespace std;
 
-int sol(ll n){
-    ll f[n+1];
 
+void sol_dp(ll n){
+    ll f[n+1];
     f[0] = 1;
     f[1] = 0;
-    for( ll i = 2; i <= n; i++){
-        f[i] = 2*f[i-2];
+
+    for (int i = 2; i <= n;i++){
+        f[i] = 2* f[i-2];
     }
-    cout << f[n] << endl;
+    cout << f[n];
 }
 
 int main(){
     fast;
     ll n;
     cin >> n;
-    sol(n);
+    sol_dp(n);
 }
