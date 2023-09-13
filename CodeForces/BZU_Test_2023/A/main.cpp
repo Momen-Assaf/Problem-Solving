@@ -10,7 +10,10 @@ using namespace std;
 
 int main(){
     fast;
-    
+    int a,b;
+    cin >> a >> b;
+    if(a+b == a*b)cout << "YES" << endl;
+    else cout << "NO" << endl;
     return 0;
 }
 
