@@ -8,7 +8,14 @@ using namespace std;
 
 int main(){
     fast;
-    
+    int x,y;cin >> x >> y;
+    int mx = max(x,y);
+    int chance = 6+1 - mx;
+    if(chance == 0){
+        cout << 0/1 << endl;
+    }
+    int g = __gcd(chance,6);
+    cout << (chance/g) << '/' << (6/g) << endl;
     return 0;
 }
 
