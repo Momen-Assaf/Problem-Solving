@@ -1,0 +1,3 @@
+C:/Users/hp/Desktop/ProblemSolving/CodeForces/Mustafa Saad Sheet/Problems A/Light, more light/cmake-build-debug/CMakeFiles/Light__more_light.dir
+C:/Users/hp/Desktop/ProblemSolving/CodeForces/Mustafa Saad Sheet/Problems A/Light, more light/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hp/Desktop/ProblemSolving/CodeForces/Mustafa Saad Sheet/Problems A/Light, more light/cmake-build-debug/CMakeFiles/rebuild_cache.dir
