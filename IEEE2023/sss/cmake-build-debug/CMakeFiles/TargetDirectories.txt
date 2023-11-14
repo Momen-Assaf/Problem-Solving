@@ -1,0 +1,3 @@
+C:/Users/hp/Desktop/ProblemSolving/IEEE2023/sss/cmake-build-debug/CMakeFiles/sss.dir
+C:/Users/hp/Desktop/ProblemSolving/IEEE2023/sss/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hp/Desktop/ProblemSolving/IEEE2023/sss/cmake-build-debug/CMakeFiles/rebuild_cache.dir
