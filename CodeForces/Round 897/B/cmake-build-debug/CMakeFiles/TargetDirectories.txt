@@ -1,3 +1,0 @@
-C:/Users/hp/Desktop/ProblemSolving/CodeForces/Round 897/B/cmake-build-debug/CMakeFiles/B.dir
-C:/Users/hp/Desktop/ProblemSolving/CodeForces/Round 897/B/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/hp/Desktop/ProblemSolving/CodeForces/Round 897/B/cmake-build-debug/CMakeFiles/rebuild_cache.dir
