@@ -1,0 +1,3 @@
+C:/Users/momen/OneDrive/Desktop/Git_Repositories/Problem-Solving/CodeForces/Round 944-Div4/D/cmake-build-debug/CMakeFiles/D.dir
+C:/Users/momen/OneDrive/Desktop/Git_Repositories/Problem-Solving/CodeForces/Round 944-Div4/D/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/momen/OneDrive/Desktop/Git_Repositories/Problem-Solving/CodeForces/Round 944-Div4/D/cmake-build-debug/CMakeFiles/rebuild_cache.dir
