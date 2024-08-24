@@ -44,7 +44,6 @@ bool isAnagram(string s, string t)
 
 vector<int> twoSum(vector<int> &nums, int target)
 {
-    printf("%d",nums.size());
     for (int i = 0; i < nums.size(); i++)
     {
         for (int j = 0; j < nums.size() - 1; j++)
