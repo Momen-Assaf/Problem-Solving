@@ -8,7 +8,6 @@ using namespace std;
 
 int main()
 {
-
 }
 
 bool hasDuplicate(vector<int> &nums)
@@ -27,14 +26,33 @@ bool isAnagram(string s, string t)
 {
     unordered_map<char, int> s_count, t_count;
 
-    if(s.length() != t.length())return false;
+    if (s.length() != t.length())
+        return false;
 
-    for( int i = 0 ; i < s.length(); i++){
+    for (int i = 0; i < s.length(); i++)
+    {
         s_count[s[i]]++;
         t_count[t[i]]++;
     }
-    for( int i = 0 ; i < s_count.size() ; i++){
-        if(s_count[i] != t_count[i])return false;
+    for (int i = 0; i < s_count.size(); i++)
+    {
+        if (s_count[i] != t_count[i])
+            return false;
     }
     return true;
+}
+
+vector<int> twoSum(vector<int> &nums, int target)
+{
+    printf("%d",nums.size());
+    for (int i = 0; i < nums.size(); i++)
+    {
+        for (int j = 0; j < nums.size() - 1; j++)
+        {
+            if( i == j+1)continue;
+            if (nums[i] + nums[j + 1] == target)
+                return {i, j + 1};
+        }
+    }
+    return {};
 }
