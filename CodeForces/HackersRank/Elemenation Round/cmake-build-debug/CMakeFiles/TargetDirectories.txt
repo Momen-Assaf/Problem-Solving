@@ -1,0 +1,3 @@
+C:/Users/momen/OneDrive/Desktop/Git_Repositories/Problem-Solving/CodeForces/HackersRank/Elemenation Round/cmake-build-debug/CMakeFiles/Elemenation_Round.dir
+C:/Users/momen/OneDrive/Desktop/Git_Repositories/Problem-Solving/CodeForces/HackersRank/Elemenation Round/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/momen/OneDrive/Desktop/Git_Repositories/Problem-Solving/CodeForces/HackersRank/Elemenation Round/cmake-build-debug/CMakeFiles/rebuild_cache.dir
