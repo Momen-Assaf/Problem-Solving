@@ -42,16 +42,34 @@ bool isAnagram(string s, string t)
     return true;
 }
 
-vector<int> twoSum(vector<int> &nums, int target)
+class TwoSum
 {
-    for (int i = 0; i < nums.size(); i++)
-    {
-        for (int j = 0; j < nums.size() - 1; j++)
+public:
+    vector<int> twoSum(vector<int> &nums, int target) // O(n^2)
+    {                                                 // longer time
+        for (int i = 0; i < nums.size(); i++)
         {
-            if( i == j+1)continue;
-            if (nums[i] + nums[j + 1] == target)
-                return {i, j + 1};
+            for (int j = i; j < nums.size() - 1; j++)
+            {
+                if (i == j + 1)
+                    continue;
+                if (nums[i] + nums[j + 1] == target)
+                    return {i, j + 1};
+            }
         }
+        return {};
     }
-    return {};
-}
+
+    vector<int> twoSum(vector<int> &nums, int target) // O(n)
+    {                                                 // more space
+        unordered_map<int, int> mp;
+        for (int i = 0; i < nums.size(); i++)
+        {
+            int complement = target - nums[i];
+            if (mp.find(complement) != mp.end())
+                return {mp[complement], i};
+            mp.insert({nums[i], i});
+        }
+        return {};
+    }
+};
